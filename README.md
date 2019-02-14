@@ -11,7 +11,7 @@
 </p>
 <p>Pré-visualização:</p>
 <p>
-<img src="http://jdenner.com/resources/android-minhas-financas1.png" alt="Pré-visualização abertura">&nbsp;
-<img src="http://jdenner.com/resources/android-minhas-financas2.png" alt="Pré-visualização atividade principal">&nbsp;
-<img src="http://jdenner.com/resources/android-minhas-financas3.png" alt="Pré-visualização fomulário">
+<img src="http://jdenner.com/github/android-minhas-financas1.png" alt="Pré-visualização abertura">&nbsp;
+<img src="http://jdenner.com/github/android-minhas-financas2.png" alt="Pré-visualização atividade principal">&nbsp;
+<img src="http://jdenner.com/github/android-minhas-financas3.png" alt="Pré-visualização fomulário">
 </p>
